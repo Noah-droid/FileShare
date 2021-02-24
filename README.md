@@ -13,6 +13,7 @@ This app is for users to easily share files with each other.
 
 <h4>Part 2:</h4>
 <ol>
+     <li>It is mobile responsive.</li>
      <li>User can search and view profile of other users.</li>
      <li>They can share their uploaded files with any of those users.</li>
      <li>Users can see the shared files by other users also in uploaded files.</li>
